@@ -27,7 +27,7 @@ Completed a project that involved extracting a dataset from the World Developmen
 In this project, I assembled a data flow between MySQL, Python and R to create a reproducible workflow process. Additionally, I also utilized Python to read in multiple datasets, and then using MySQL to subset columns for creating a new table record. The new SQL table record was then read into R for regression and visualization analysis. <br> <br>
 
 ### Project 3: Applied Statistical Methods and Causal Analysis
-<a href="https://github.com/bayyangjie/Applied-Statistical-Methods-and-Causal-Analysis"> <b> Treatment effect analysis of discount on supermarket sales </b>
+<a href="https://github.com/bayyangjie/Applied-Statistical-Methods-and-Causal-Analysis"> <b> Analysis of discount treatment effect on supermarket sales </b>
 
 Performed EDA on a dataset of supermarket stores. R was used to summarize, visualize, and explore the data to gain insights and understanding. Statistical analysis together with hypothesis testing were then employed to identify the effect of discounts on sales as part of the analysis objective. <br> <br>
 
