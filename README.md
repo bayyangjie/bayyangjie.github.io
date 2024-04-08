@@ -7,6 +7,7 @@ I am a passionate master's student in Analytics and Visualisation seeking a chal
 
 ## Education
 Master's student in Analytics and Visualization
+
 Expected completion: November 2024
 
 ## Completed Coursework
