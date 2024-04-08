@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! This repository contains a collection of project
 I am a passionate master's student in Analytics and Visualisation seeking a challenging role where I aim to leverage my analytical skills and academic background to contribute to data-driven decision-making processes. I am eager to apply theoretical knowledge gained through coursework and hands-on experience to real-world scenarios, ultimately driving innovation and efficiency within an organization.
 
 ## Education
-Master's student in Analytics and Visualization <br>
+Master's student in Analytics and Visualization
 Expected completion: November 2024
 
 ## Completed Coursework
