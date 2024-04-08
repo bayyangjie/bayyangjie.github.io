@@ -1,6 +1,6 @@
 # Portfolio of Bay Yang Jie 
 
-Welcome to my GitHub portfolio! This repository contains a collection of projects I've worked on, showcasing my skills and experience in data analysis. You may find my resume here <a href="https://bayyangjie.github.io/resume"> <b> here </b>
+Welcome to my GitHub portfolio! This repository contains a collection of projects I've worked on, showcasing my skills and experience in data analysis. You may find my resume here <a href="https://drive.google.com/file/d/1GAgaUo4LVUWnO2rdLaMTnEOUqKtsgBMw/view?usp=drive_link"> <b> here </b>
 
 ## About Me
 I am a passionate master's student in Analytics and Visualisation seeking a challenging role where I aim to leverage my analytical skills and academic background to contribute to data-driven decision-making processes. I am eager to apply theoretical knowledge gained through coursework and hands-on experience to real-world scenarios, ultimately driving innovation and efficiency within an organization.
