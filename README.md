@@ -53,6 +53,6 @@ In this project, Python was utilized for applying clustering techniques to group
 This project was carried out based on the CRISP-DM framework. Using a provided dataset and the SPSS Modeler software, data analytical steps were executed from formulating business problems to be addressed and the analytical techniques to be used, data understanding & preparation to data analysis and finally evaluation & discussion. Techniques such as Clustering and Predictive Modelling were utilized for this project to cluster customers based on various parameters and then leverage the results to make predictions based on the review behaviours of customers.
 
 ### Data Integration for Enterprise Automation
-<a href=""https://bayyangjie.github.io/Data-Integration-for-Enterprise-Automation"> <b> Automation of customer information flow </b>
+<a href="https://bayyangjie.github.io/Data-Integration-for-Enterprise-Automation"> <b> Automation of customer information flow </b>
 
 
